@@ -7,7 +7,8 @@ I work in QGIS, RStudio, Google Earth Engine, and Adobe Illustrator to compile a
 
 I'm graduating this February 🎉 and working to build out my portfolio from my work in college. Stay tuned for repositories of cartographic design, Google Earth Engine apps and more!
 
-
+Email: fbaileywalker@gmail.com
+LinkedIn: https://www.linkedin.com/in/fbailey-walker/ 
 <!--
 **fbwalk/fbwalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
